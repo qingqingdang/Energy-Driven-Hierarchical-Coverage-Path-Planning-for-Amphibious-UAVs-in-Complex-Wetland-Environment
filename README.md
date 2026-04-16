@@ -51,10 +51,4 @@ python main.py
 
 ---
 
-### **给你的一个小建议：**
-如果你想让项目看起来更专业，你可以把上面这段话存为一个名为 `README.md` 的文件，放在 `I:\Global Path Planning` 下，然后：
-1. `git add README.md`
-2. `git commit -m "docs: add setup guide in README"`
-3. `git push`
 
-这样你的合作伙伴一打开 GitHub 页面，就能直接看到这个美观的教程了！

@@ -39,8 +39,8 @@ if __name__ == "__main__":
     
     # 路径规划模式配置
     CALCULATE_ALL_PAIRS = False   # True: 计算所有点对并保存, False: 计算两个点进行可视化
-    SOLVE_TSP_WITH_LKH = False  # True: 调用LKH求解器求解骨架路径问题TSP, False: 跳过TSP求解
-    VISUALIZE_TSP_TOUR = False              # 是否可视化LKH求解的TSP访问顺序路径
+    SOLVE_TSP_WITH_LKH = True  # True: 调用LKH求解器求解骨架路径问题TSP, False: 跳过TSP求解
+    VISUALIZE_TSP_TOUR = True              # 是否可视化LKH求解的TSP访问顺序路径
     
     # =============================================================================
     # 可视化图生成开关

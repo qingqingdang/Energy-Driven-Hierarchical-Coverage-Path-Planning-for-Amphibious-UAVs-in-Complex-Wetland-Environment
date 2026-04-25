@@ -1,0 +1,7 @@
+PROBLEM_FILE = core_points.tsp
+OUTPUT_TOUR_FILE = core_points_solution.txt
+RUNS = 1
+MAX_TRIALS = 1431
+MOVE_TYPE = 5
+MAX_CANDIDATES = 50 SYMMETRIC
+TRACE_LEVEL = 1

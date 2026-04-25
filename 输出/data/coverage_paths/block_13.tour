@@ -1,0 +1,15 @@
+NAME : block_13.25634.tour
+COMMENT : Length = 25634
+COMMENT : Found by LKH-3 [Keld Helsgaun] Wed Apr 22 15:45:21 2026
+TYPE : TOUR
+DIMENSION : 7
+TOUR_SECTION
+3
+4
+5
+6
+2
+7
+1
+-1
+EOF

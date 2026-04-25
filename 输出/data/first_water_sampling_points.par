@@ -1,0 +1,7 @@
+PROBLEM_FILE = first_water_sampling_points.tsp
+OUTPUT_TOUR_FILE = first_water_sampling_points.tour
+RUNS = 10
+MAX_TRIALS = 4005
+MOVE_TYPE = 5
+MAX_CANDIDATES = 50 SYMMETRIC
+TRACE_LEVEL = 1

@@ -1,0 +1,62 @@
+NAME : core_points.2572.tour
+COMMENT : Length = 2572
+COMMENT : Found by LKH-3 [Keld Helsgaun] Wed Apr 22 15:38:03 2026
+TYPE : TOUR
+DIMENSION : 54
+TOUR_SECTION
+41
+34
+42
+14
+22
+24
+53
+25
+26
+23
+45
+32
+15
+13
+12
+11
+43
+30
+6
+16
+17
+33
+50
+48
+29
+37
+31
+49
+18
+47
+27
+54
+51
+21
+20
+19
+3
+5
+4
+46
+1
+28
+52
+44
+2
+38
+40
+35
+36
+10
+7
+8
+9
+39
+-1
+EOF

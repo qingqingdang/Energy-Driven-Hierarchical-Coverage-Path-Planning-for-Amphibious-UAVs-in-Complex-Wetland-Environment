@@ -1,7 +1,7 @@
 
 # 🚀 项目快速上手指南 (Quick Start)
 
-欢迎使用 **Energy-Aware Cooperative Coverage Path Planning** 项目。请按照以下步骤配置你的运行环境。
+欢迎使用 **Energy-Driven-Hierarchical-Coverage-Path-Planning-for-Amphibious-UAVs-in-Complex-Wetland-Environment** 项目。请按照以下步骤配置你的运行环境。
 
 ### 1. 前置条件
 确保你的电脑上已安装以下软件之一：

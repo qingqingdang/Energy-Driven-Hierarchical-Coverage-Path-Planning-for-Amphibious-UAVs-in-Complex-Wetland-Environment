@@ -9,7 +9,6 @@
 *   **Git**
 
 ### 2. 获取代码
-由于这是私有仓库，请先确保你已被添加为 Collaborator，然后克隆项目：
 ```bash
 git clone https://github.com/qingqingdang/Energy-Driven-Hierarchical-Coverage-Path-Planning-for-Amphibious-UAVs-in-Complex-Wetland-Environment.git
 cd Energy-Driven-Hierarchical-Coverage-Path-Planning-for-Amphibious-UAVs-in-Complex-Wetland-Environment
